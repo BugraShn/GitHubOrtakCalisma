@@ -3,5 +3,6 @@ public class Kerim {
 
         System.out.println("Kerim Calisma");
         System.out.println("Kerim deneme");
+        System.out.println("kerim yeni deneme 3");
     }
 }
