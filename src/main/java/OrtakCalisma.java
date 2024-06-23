@@ -9,7 +9,7 @@ public class OrtakCalisma {
         System.out.println("bugra sen bizi bitiriceksin");
         System.out.println("Kerim 10. satır");
         System.out.println("Ilgar 11. satir");
-   
-
+        System.out.println("kerim 11.satir");
+       
     }
 }
