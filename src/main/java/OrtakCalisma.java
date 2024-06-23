@@ -7,6 +7,10 @@ public class OrtakCalisma {
 
 
 
+
         System.out.println("Kerim 10. satır");
+        System.out.println("Bugra 2.version");
+
+
     }
 }
