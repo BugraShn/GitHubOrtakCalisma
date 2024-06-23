@@ -3,5 +3,7 @@ public class Seren {
         System.out.println(" serenin kodlari");
 
 
+
+        System.out.println("serenin kodu");
     }
 }
